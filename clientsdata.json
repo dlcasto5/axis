@@ -16,12 +16,12 @@
         "url": "/eagler/resent40/"
     }, 
     {
-        "id": "u35",
-        "name": "u35", 
-        "description": "Eaglercraft 1.8.8 Update 35", 
+        "id": "u39",
+        "name": "u39", 
+        "description": "Eaglercraft 1.8.8 Update 39", 
         "icon": "overworld",
         "info": "Dolor sit amet",
-        "url": "/eagler/u35/"
+        "url": "/eagler/u39/"
     }, 
     {
         "id": "152",
@@ -44,7 +44,7 @@
         "name": "Shadow Client for 1.8.8", 
         "description": "Rendering optimizations for 1.8.8", 
         "icon": "end",
-        "info": "ooh a mod???? omg thats so skibidi hahhaha",
+        "info": "shadow mod",
         "url": "/eagler/shadowclient/"
     }, 
     {
