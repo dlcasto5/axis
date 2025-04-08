@@ -2,10 +2,18 @@
     {
         "id": "194",
         "name": "Eaglercraft 1.9.4", 
-        "description": "1.9.4 is finally here!", 
+        "description": "1.9.4 ", 
         "icon": "overworld",
-        "info": "YIPPEE!",
+        "info": "ok",
         "url": "/eagler/194/"
+    },     
+    {
+        "id": "112",
+        "name": "Eaglercraft 1.12.2", 
+        "description": "1.12.2 is finally here!", 
+        "icon": "overworld",
+        "info": "Ma-na-gn-e-gn-a-gn-a-o",
+        "url": "/eagler/112/"
     }, 
     {
         "id": "resent40",
@@ -16,12 +24,12 @@
         "url": "/eagler/resent40/"
     }, 
     {
-        "id": "u39",
-        "name": "u39", 
-        "description": "Eaglercraft 1.8.8 Update 39", 
+        "id": "u50",
+        "name": "u50", 
+        "description": "Eaglercraft 1.8.8 Update 50", 
         "icon": "overworld",
-        "info": "Dolor sit amet",
-        "url": "/eagler/u39/"
+        "info": "1.12.2 is out",
+        "url": "/eagler/u50/"
     }, 
     {
         "id": "152",
